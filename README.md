@@ -6,6 +6,10 @@ I am Ph.D candidate majoring in Research Psychology. I am entering into my final
 
 Experience in Coding and Data Analysis
 
-
+1. SQL
+2. R
+3. Python
+4. Excel
+5. Tableau
 
 Education Overview
